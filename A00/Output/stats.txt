@@ -1,0 +1,5 @@
+Number of Pixels: 175683
+min: 0, max:255
+Standard Deviation: 62.422979001095854
+Mean Intensity: 120.62877075945501
+The standard deviation is 62. the mean intensity is 120 ~ 121, meaning that the average color value of all the pixels is 121. So, 68 percent of the pixels will have values 62 +- of 121. 
